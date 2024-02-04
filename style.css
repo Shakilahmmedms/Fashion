@@ -1,0 +1,35 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+.navbar{
+    background-color: #1A187A;
+}
+#hanger{
+    background-color: white
+}
+.carousel-banner{
+    background-image:linear-gradient(#E4B0F7,#EAF0F8,#44388C);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.overlay-img img{
+    /* width: 80%; */
+    /* overflow: hidden; */
+    
+}
+.carousel-item{
+    display: inline;
+    /* overflow: hidden; */
+}
+span.carousel-control-prev-icon {
+    /* color: beige; */
+    background-color: black;
+}
+span.carousel-control-next-icon {
+    /* color: beige; */
+    background-color: black;
+}
